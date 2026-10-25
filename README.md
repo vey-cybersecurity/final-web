@@ -2,16 +2,6 @@
 
 A clean, beginner-friendly **Student Management System** built with **Laravel 13**, **MySQL**, **Laravel Blade**, and **Bootstrap 5**. Designed specifically as a final school project adhering strictly to Laravel's standard MVC architecture and Eloquent ORM.
 
----
-
-## 👨‍🎓 Project Information
-* **Student Name:** `[Your Full Name Here]`
-* **School / University:** `[Your Institution Here]`
-* **Project Name:** `student-management`
-* **Repository URL:** `[Your GitHub Repository URL Here]`
-
----
-
 ## 🌟 Features Overview
 
 1. **Authentication System:**
