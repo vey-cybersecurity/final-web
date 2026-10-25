@@ -235,5 +235,3 @@ When recording your demonstration video (3–5 minutes recommended):
    - Show pagination navigating between pages while retaining the filter.
    - View a student profile and edit their details.
 8. **Logout:** Click Logout to confirm session destruction and redirect to login.
-#   f i n a l - w e b  
- 
